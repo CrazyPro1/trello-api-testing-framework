@@ -1,0 +1,752 @@
+00:24:52.199 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667f06ffe2b1f216d3131e2c
+00:24:53.096 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+00:24:53.596 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+00:24:55.318 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+00:24:55.729 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+13:18:55.657 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fbc69641c4b0f1565cf60
+13:24:44.918 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fbdc64032d979a6c84fd6
+13:24:45.349 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+13:24:45.811 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+13:24:47.023 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+13:24:47.388 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+13:55:10.810 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fc4e8020d1d506eabb252
+13:55:11.224 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+13:55:11.671 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+13:55:12.964 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+13:55:13.337 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+13:55:13.566 [main] ERROR com.trello.api.utils.Log4jUtil - Board creation failed. Status code: 301. Response body: 
+14:20:31.962 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fcad9d76e98f2627c8e3e
+14:20:32.414 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+14:20:32.859 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+14:20:34.663 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+14:20:35.036 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+14:20:35.685 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fcade9899482187597b3a
+14:20:36.115 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fcade555e903fa920a9ef
+14:20:36.506 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+14:20:36.950 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+14:20:37.697 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+14:20:39.029 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:20:39.400 [main] INFO  com.trello.api.utils.Log4jUtil - Archived list not found as expected
+14:37:53.920 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fceeb7177881a6e7e1c3b
+14:37:54.658 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+14:37:55.105 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+14:37:56.529 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+14:37:56.895 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+14:37:57.446 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fceeff427ea0ab69fb2a2
+14:37:57.950 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fcef0044d8a93528a8be7
+14:37:58.330 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+14:37:59.191 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+14:37:59.626 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+14:38:00.891 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:38:01.278 [main] INFO  com.trello.api.utils.Log4jUtil - Archived list not found as expected
+14:38:01.900 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fcef471eccfd57138f4a8
+14:38:02.771 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fcef5fd7d170f63f30d68
+14:38:03.334 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fcef54e7067409cee6f67
+14:38:03.723 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+14:38:04.213 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+14:38:04.949 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+14:38:06.342 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:38:07.162 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+14:57:07.497 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd36c04ececae30dd99a1
+14:57:08.133 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fd36e807e2b8a45284b17
+14:57:09.949 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:10.512 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd3707dfde95bacb43912
+14:57:10.906 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+14:57:12.587 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:13.501 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd373798c18aebdf40558
+14:57:13.933 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+14:57:15.275 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:15.875 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd376fd5007c816182bda
+14:57:17.124 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+14:57:18.458 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:19.021 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd37921d50eabb63e2af4
+14:57:19.380 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+14:57:20.823 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:21.379 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd37bb5e8b6819240d425
+14:57:21.821 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd37c1afe412407c00c79
+14:57:21.822 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fd37c1afe412407c00c79
+14:57:23.103 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:23.638 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd37e3d2e601fe2f2461f
+14:57:24.062 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd37ed6ce3f3845a4dd0a
+14:57:24.503 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+14:57:25.837 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:26.439 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd380c18e2b3987192c22
+14:57:27.327 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd381f2310ba61ddf0158
+14:57:27.734 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+14:57:28.975 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:29.572 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd383972d01f8b9ac4b1e
+14:57:30.460 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd3858788825a041cdfdc
+14:57:30.902 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+14:57:32.194 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:36.808 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd387a7d068230e950cb7
+14:57:37.944 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd38c912c4d17b037619e
+14:57:39.712 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fd38e2c56796c3670a8c6
+14:57:42.135 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:45.280 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd3937670bacc2fe78c4b
+14:57:46.392 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd394340a717059332a76
+14:57:49.907 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:57:52.442 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd39af9e6f1ee8ddf2831
+14:57:54.293 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd39c98c7e11a51f356e4
+14:57:57.368 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:58:00.211 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd3a276d5b04033760933
+14:58:01.170 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd3a3a6b6c8e7ec4f35fb
+14:58:04.481 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:04:25.480 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd52253a0a79bf2492230
+15:04:26.373 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd524bc3244aa2b6ce94a
+15:04:26.907 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fd525982f6efaebe04067
+15:04:28.513 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:04:29.126 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd52791f0b7b534a05c82
+15:04:29.546 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd52838cd387e11303c82
+15:04:31.174 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:04:31.754 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd52a42a2448c8002d8bf
+15:04:32.184 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd52a06792b4d29aba4b0
+15:04:33.932 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:04:34.501 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd52ca4bd3961b50717f1
+15:04:34.973 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd52d0e01fdc6bb24190e
+15:04:36.484 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:04:59.998 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd5456d17df4713a125b4
+15:05:00.628 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fd54799caa55a98a188d5
+15:05:01.901 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:02.485 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd54842cc9c061a16c276
+15:05:02.874 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+15:05:04.212 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:04.795 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd54b32f3a8749504acad
+15:05:05.233 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+15:05:06.458 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:07.048 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd54d047bb6074e5e1aaa
+15:05:08.551 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+15:05:09.825 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:10.363 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd550b8ceada055e2bec0
+15:05:10.750 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+15:05:11.931 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:12.490 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd552c905b3f070133b42
+15:05:12.907 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd55368c4cdbb5b7d0a77
+15:05:12.908 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fd55368c4cdbb5b7d0a77
+15:05:14.918 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:15.448 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd55515258bd62b2fb319
+15:05:15.880 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd5565e7e5cba1fd1e600
+15:05:16.721 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+15:05:18.436 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:19.119 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd559d869599c140437ee
+15:05:19.533 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd55a88ede1b2df2259fc
+15:05:19.947 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+15:05:21.153 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:21.742 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd55c3857b433d82b0ca4
+15:05:22.169 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd55cd518c33996640be9
+15:05:22.597 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+15:05:24.239 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:24.788 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd55ff75c5f98189c94de
+15:05:25.209 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd55f3761ea097113aae4
+15:05:25.776 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fd560b32c254b56346105
+15:05:27.024 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:27.579 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd5624ebe0ad38a39410b
+15:05:28.009 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd5622cf790674fba9189
+15:05:29.654 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:30.171 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd56415e3d8315f9211da
+15:05:30.618 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd565a7de7d387e5f71f3
+15:05:32.769 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:05:33.324 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd567a66daaa9a650e11d
+15:05:33.748 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd5684d9d5c67300ed264
+15:05:35.478 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:08:29.428 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd616addfcccb2c8622c4
+15:08:29.885 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd618b67a98baaff8dfff
+15:08:30.387 [main] INFO  com.trello.api.utils.Log4jUtil - Create Card Response Status: 200
+15:08:30.388 [main] INFO  com.trello.api.utils.Log4jUtil - Create Card Response Body: {"id":"667fd61827dc65d0e81a5a21","badges":{"attachmentsByType":{"trello":{"board":0,"card":0}},"externalSource":null,"location":false,"votes":0,"viewingMemberVoted":false,"subscribed":false,"attachments":0,"fogbugz":"","checkItems":0,"checkItemsChecked":0,"checkItemsEarliestDue":null,"comments":0,"description":false,"due":null,"dueComplete":false,"lastUpdatedByAi":false,"start":null},"checkItemStates":[],"closed":false,"dueComplete":false,"dateLastActivity":"2024-06-29T09:38:32.958Z","desc":"","descData":{"emoji":{}},"due":null,"dueReminder":null,"email":null,"idBoard":"667fd616addfcccb2c8622c4","idChecklists":[],"idList":"667fd618b67a98baaff8dfff","idMembers":[],"idMembersVoted":[],"idShort":1,"idAttachmentCover":null,"labels":[],"idLabels":[],"manualCoverAttachment":false,"name":"Test Card","pos":16384,"shortLink":"z1xMg07N","shortUrl":"https://trello.com/c/z1xMg07N","start":null,"subscribed":false,"url":"https://trello.com/c/z1xMg07N/1-test-card","cover":{"idAttachment":null,"color":null,"idUploadedBackground":null,"size":"normal","brightness":"dark","idPlugin":null},"isTemplate":false,"cardRole":null,"attachments":[],"stickers":[],"limits":{}}
+15:08:30.418 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fd61827dc65d0e81a5a21
+15:08:31.633 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:08:32.206 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd61a6afd55f3d05ae626
+15:08:32.642 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd61be9f79d49740f7547
+15:08:33.007 [main] INFO  com.trello.api.utils.Log4jUtil - Get Card Response Status: 404
+15:08:33.007 [main] INFO  com.trello.api.utils.Log4jUtil - Get Card Response Body: The requested resource was not found.
+15:08:34.267 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:08:34.799 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd61db792e0025423a457
+15:08:35.231 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd61db819ae4e41b8185f
+15:08:35.582 [main] INFO  com.trello.api.utils.Log4jUtil - Update Card Response Status: 404
+15:08:35.582 [main] INFO  com.trello.api.utils.Log4jUtil - Update Card Response Body: The requested resource was not found.
+15:08:36.890 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:08:37.456 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd61f96ff037e942197d8
+15:08:38.369 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd62029e60625690d5a7a
+15:08:38.805 [main] INFO  com.trello.api.utils.Log4jUtil - Delete Card Response Status: 404
+15:08:38.806 [main] INFO  com.trello.api.utils.Log4jUtil - Delete Card Response Body: The requested resource was not found.
+15:08:40.034 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:38.084 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd65b894368d128c104cd
+15:09:38.548 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd65decb793c3a5597a16
+15:09:39.179 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd65d32248143dd05a813
+15:09:39.727 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fd65eea4b11ab6d28c5a4
+15:09:41.131 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:42.137 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd66052a19e4d6956d400
+15:09:42.539 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+15:09:43.793 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:44.319 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd662d3e3d9675fa401f6
+15:09:44.818 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+15:09:46.399 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:46.933 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd665b83eb4a1479c19cf
+15:09:47.574 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+15:09:48.862 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:49.465 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd667340a7170593551ec
+15:09:50.699 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:51.900 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:09:52.476 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd66a61a6382006b5158d
+15:09:52.834 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+15:09:54.236 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:22.150 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd6ff56c23ab968a1d181
+15:12:22.871 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fd701901124a5a2b08eda
+15:12:24.128 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:24.713 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd70334eb84ccd894ffa9
+15:12:25.117 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+15:12:26.966 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:27.587 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd705f1035aa2f32c7834
+15:12:28.029 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+15:12:29.457 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:30.014 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd7082a9c85dee0832363
+15:12:31.274 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+15:12:32.498 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:33.071 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd70b04fe48b84f37cc3d
+15:12:33.428 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+15:12:34.685 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:35.245 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd70df83976beff9d4596
+15:12:35.684 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd70e8f603ea940156728
+15:12:35.685 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fd70e8f603ea940156728
+15:12:36.905 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:37.441 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd70f0e4852d246f1114f
+15:12:37.886 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd710f6e991b166fba13b
+15:12:38.263 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+15:12:39.733 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:40.321 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd712970066c9413e0acd
+15:12:40.748 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd713d437ba27327ec160
+15:12:41.189 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+15:12:42.404 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:42.952 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd71577920aa64f75d1ef
+15:12:43.373 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd7159d983b8216ed2d29
+15:12:43.817 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+15:12:45.043 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:45.609 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd71832eff3d70caca389
+15:12:46.026 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fd718274ccbd7bbd270ef
+15:12:46.568 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd719f58b62381c520f8a
+15:12:47.080 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fd7193077070e4dd5327f
+15:12:48.454 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:49.229 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd71bc3e7d4d210810c6a
+15:12:49.607 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+15:12:50.879 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:51.435 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd71da684908e9e2d82c5
+15:12:51.894 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+15:12:53.452 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:54.391 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd7201fe579d201666a4e
+15:12:56.364 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+15:12:58.196 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:12:59.024 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd72560cf2715b0280d47
+15:13:00.436 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:13:05.533 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:13:13.020 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fd731e9f79d4974105c34
+15:13:16.981 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+15:13:18.388 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:17.857 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd4f643e9a662f1c7355
+15:39:18.902 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fdd51c268d0092b58994a
+15:39:20.197 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:20.832 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd530b61d9304cc90890
+15:39:21.215 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+15:39:22.444 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:23.033 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd55a9052007e1194559
+15:39:23.481 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+15:39:24.756 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:25.310 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd5743408e5db8cc700a
+15:39:26.728 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+15:39:28.119 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:28.813 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd5b0ffdab96baf4a812
+15:39:29.629 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+15:39:30.967 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:31.524 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd5d6d61d1bffbff4a8e
+15:39:31.940 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fdd5e36454406738b3d9c
+15:39:32.501 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd5eafda8160941cce71
+15:39:33.029 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fdd5fe9abba6b8fccb121
+15:39:34.321 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:34.902 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd6165ee492af974676c
+15:39:35.739 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+15:39:37.179 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:38.250 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd64152672e31247d373
+15:39:38.723 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+15:39:39.959 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:40.546 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd66ecd503aaa2037ace
+15:39:41.234 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+15:39:42.528 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:43.061 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd696459b3aad5eb0c45
+15:39:44.241 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:45.457 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:45.995 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd6c8dcd133ee666f264
+15:39:46.345 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+15:39:47.514 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:48.078 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd6e6c230fcee6e39cd9
+15:39:48.517 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fdd6f6670f01606f3ff81
+15:39:48.518 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fdd6f6670f01606f3ff81
+15:39:49.780 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:50.313 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd70cfee5a65ddc3c95d
+15:39:50.803 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fdd71198832ee3bbbe321
+15:39:51.186 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+15:39:52.464 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:53.021 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd734103bad7397eb889
+15:39:53.428 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fdd7401d5e05879addd62
+15:39:53.847 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+15:39:55.100 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:39:55.637 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fdd7661a6382006bd96ae
+15:39:56.061 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fdd761a0cce7fe1b6d5b2
+15:39:56.511 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+15:39:57.756 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:01.611 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fede3dc9617a676723875
+16:50:02.245 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fede490a41b942bcdee49
+16:50:03.570 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:04.178 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fede60ffd26dfb22991fa
+16:50:04.576 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+16:50:05.881 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:06.446 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fede8427389baabdb7611
+16:50:06.860 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+16:50:08.230 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:08.799 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedeba75c78938dbc1c46
+16:50:10.132 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+16:50:11.369 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:11.988 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedee0e2dbd6ebbdad654
+16:50:12.348 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+16:50:13.759 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:14.348 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedf0ea74dccf24f16714
+16:50:14.791 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fedf121d50eabb6545aa2
+16:50:14.793 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fedf121d50eabb6545aa2
+16:50:16.358 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:16.923 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedf3276b1c3b892f33b3
+16:50:17.347 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fedf32b5e0a489cd57a49
+16:50:17.718 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+16:50:19.103 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:19.734 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedf6eafaae38defe8678
+16:50:20.156 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fedf621fe89323aa005ce
+16:50:20.588 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+16:50:21.860 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:22.453 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedf86670f01606045de0
+16:50:22.890 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fedf9f44162dd2762b697
+16:50:23.322 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+16:50:24.616 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:25.220 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedfb2f5080cc9892c8f9
+16:50:25.654 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fedfc1020c6f0d994b4bc
+16:50:26.214 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedfcf51a8e4a61a08dd8
+16:50:26.720 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fedfdbe7d05f04f7a36cc
+16:50:27.972 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:28.551 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fedffafee490fe9a2470b
+16:50:28.941 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+16:50:30.214 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:30.763 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee0109a808be6f3a110f
+16:50:31.264 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+16:50:35.484 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:36.517 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee07de0fb87eca09e83b
+16:50:37.199 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+16:50:38.545 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:39.097 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee099e4bab04c672e640
+16:50:40.421 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:41.600 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:50:42.147 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee0c060c1fc485307565
+16:50:42.625 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+16:50:43.935 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:21.539 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee32fbcbf703b7b4675a
+16:51:22.231 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fee343f13f2e89f6833d4
+16:51:23.364 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:23.939 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee36d6a48227433e62d9
+16:51:24.324 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+16:51:25.536 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:26.184 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee383cb3ad56e7a53888
+16:51:26.611 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+16:51:27.992 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:28.545 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee3bcbb307ad55afac92
+16:51:29.881 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+16:51:31.064 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:31.646 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee3ecbb151102e2fad14
+16:51:32.000 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+16:51:33.487 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:34.017 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee40444950b542d8397f
+16:51:34.426 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fee41276b1c3b892f9d7d
+16:51:35.036 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee415e4f18ef37f4d1ba
+16:51:35.590 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fee42f44162dd27632d7d
+16:51:36.789 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:37.395 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee439298fbdf5b485a69
+16:51:37.794 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+16:51:39.281 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:39.875 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee460bce36a68fae5407
+16:51:40.339 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+16:51:41.630 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:42.203 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee48cc9c5560a8179ae0
+16:51:43.033 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+16:51:44.314 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:44.850 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee4b5b404235c709284b
+16:51:46.081 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:47.316 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:47.917 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee4ed158de266b0e3d93
+16:51:48.283 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+16:51:49.663 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:50.295 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee50c516c32d8bb32999
+16:51:50.747 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fee5198fe4676e988b52e
+16:51:50.749 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667fee5198fe4676e988b52e
+16:51:52.026 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:52.662 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee53e90721d9d7049336
+16:51:53.061 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fee5388634d7152d13236
+16:51:53.438 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+16:51:54.711 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:55.265 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee554edef6648d2b7dc9
+16:51:55.692 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fee56ff7c8805133c5798
+16:51:56.145 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+16:51:57.323 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:51:57.880 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee58ff7c8805133c5b48
+16:51:58.302 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fee58ea4c0edef792f753
+16:51:58.752 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+16:51:59.998 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:52:43.771 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee84a4975acf1caba508
+16:52:44.405 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fee8650503e4e3c58eace
+16:52:45.798 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:52:46.351 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee88726413883c9c883d
+16:52:46.758 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+16:52:48.185 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:52:48.831 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee8b9cd7b3a8bcff2c58
+16:52:49.567 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+16:52:50.878 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:52:51.489 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee8da890cbc58bf111b2
+16:52:52.738 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+16:52:54.055 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:52:54.624 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee91391bdb3c6286a3cf
+16:52:54.994 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+16:52:56.520 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:52:57.090 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee93ea74dccf24f1eeeb
+16:52:57.533 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667fee94ea4b11ab6d3cb771
+16:52:58.128 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee944924390dad7b0f6e
+16:52:58.653 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667fee95efc5c3bd7deeafbd
+16:52:59.945 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:00.510 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee9695fd624298fdd8ab
+16:53:01.352 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+16:53:02.535 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:03.097 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee999768e6a4978c2454
+16:53:03.574 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+16:53:04.700 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:05.250 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee9bec877ae49ddf985a
+16:53:05.981 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+16:53:07.417 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:07.966 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fee9e634d0088f291969d
+16:53:09.170 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:10.484 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:11.044 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feea1702b0db9112bf835
+16:53:11.411 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+16:53:12.602 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:13.222 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feea35998e84b5a42dd67
+16:53:13.637 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feea4b054c17fed19e8bf
+16:53:13.638 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667feea4b054c17fed19e8bf
+16:53:14.924 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:15.490 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feea5a34103f6915dde0f
+16:53:15.908 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feea62417ecd80e37cc21
+16:53:16.287 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+16:53:17.518 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:18.112 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feea845766d22112b4793
+16:53:18.545 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feea9c5c0cf6fa082208b
+16:53:18.964 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+16:53:20.208 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:20.770 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feeab5373a2ed8df9cfcf
+16:53:21.202 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feeabe8c7054b57a1350f
+16:53:21.646 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+16:53:23.044 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:54.117 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feecafb77fb4864c8073d
+16:53:54.845 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667feecd472bc2f636ce7dc9
+16:53:56.337 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:56.926 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feecf008d397b3653fff4
+16:53:57.373 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+16:53:58.822 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:53:59.478 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feed1f5aaf00f5741b471
+16:54:00.410 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+16:54:01.681 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:02.264 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feed4d0a26816776324c1
+16:54:03.944 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+16:54:05.163 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:05.717 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feed88025ed3afd212cbc
+16:54:06.092 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+16:54:07.537 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:08.449 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feeda574c7e229c1099ee
+16:54:08.914 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feedb56b33d1c1dbcdde4
+16:54:08.914 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667feedb56b33d1c1dbcdde4
+16:54:10.711 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:11.309 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feedd992ec9d76634ce7b
+16:54:11.736 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feedeb1ed8c22f70d4081
+16:54:12.153 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+16:54:13.461 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:14.293 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feee0a890cbc58bf287e5
+16:54:14.809 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feee17963fcb8e9212e91
+16:54:15.315 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+16:54:16.635 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:17.639 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feee434eb84ccd8a8ff18
+16:54:18.182 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feee4e4ff37a9b22770dc
+16:54:18.624 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+16:54:19.930 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:20.537 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feee64103bad739904841
+16:54:20.987 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feee7bea901930bc7da1d
+16:54:21.525 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feee85616e0383ddca9de
+16:54:22.084 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667feee8113f1969b5526a9b
+16:54:23.600 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:24.715 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feeea91371e16b847f8bf
+16:54:25.125 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+16:54:26.772 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:27.322 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feeed44722568bac9322b
+16:54:27.912 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+16:54:29.434 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:30.059 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feef02e9d30c1d6d0dc28
+16:54:30.773 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+16:54:32.200 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:32.829 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feef36459b3aad5ff0f42
+16:54:34.045 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:35.376 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:54:35.945 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feef66359f8453fe9e5d6
+16:54:36.401 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+16:54:37.729 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:40.967 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fefeaa69e9f49e2bf4d26
+16:58:41.678 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 667fefec0d10ab02234be116
+16:58:43.081 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:43.715 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667fefeec09f1091d6757c44
+16:58:44.114 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+16:58:45.334 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:45.964 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feff0939e9d5d577e7b32
+16:58:46.474 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+16:58:47.894 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:48.495 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feff2278878e08b3e5411
+16:58:49.840 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+16:58:51.171 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:51.793 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feff6de1449bb73b1bbfc
+16:58:52.194 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+16:58:53.488 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:54.067 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feff83a36948d5f55bd58
+16:58:54.560 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667feff9d2f3292bebd0d9b1
+16:58:55.281 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feff9979ed58db5f2ed0c
+16:58:55.966 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 667feffafb2c1ba741260e78
+16:58:57.314 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:58:57.945 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feffc4eba6a59f10e30c9
+16:58:58.451 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+16:58:59.668 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:00.400 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667feffe47168bc212d56b89
+16:59:00.917 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+16:59:02.376 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:02.947 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff00136ffeb78a81ccca4
+16:59:03.765 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+16:59:05.089 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:05.752 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff004de0fb87eca0db15f
+16:59:07.144 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:08.783 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:09.514 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff007ceff0082f880270e
+16:59:09.909 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+16:59:11.138 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:11.716 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff00aad111217a753ee79
+16:59:12.642 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667ff00b278878e08b3e77bb
+16:59:12.642 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 667ff00b278878e08b3e77bb
+16:59:14.000 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:14.635 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff00dc6b497edbd8bb4a5
+16:59:15.139 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667ff00da186118305828740
+16:59:15.654 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+16:59:16.981 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:17.844 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff010600d1fd7f4c2b17d
+16:59:18.319 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667ff010fd684eb7001029d4
+16:59:19.179 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+16:59:20.455 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+16:59:21.183 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 667ff013b15b011a6426d5fc
+16:59:21.694 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 667ff014e2eb7a25b83ae855
+16:59:22.229 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+16:59:23.565 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:26.255 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ec4686e0123ea19cca8
+14:24:27.255 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 66826ec7bb4387bacfc68269
+14:24:28.855 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:29.509 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ec9f1a91bdeaee4970d
+14:24:30.848 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+14:24:33.424 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:34.009 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ecee146999e19c6b57c
+14:24:34.590 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+14:24:36.420 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:37.151 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ed1cc1967981a8ba7ac
+14:24:38.596 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+14:24:40.280 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:41.058 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ed5c36b1c553edad47d
+14:24:41.476 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+14:24:42.979 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:43.745 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ed8a2d6fbb8519cae68
+14:24:44.741 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66826ed8d78f40eb60663eeb
+14:24:45.387 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ed9e81e9a2b24c1d4fd
+14:24:45.997 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 66826eda247444c3907b5cce
+14:24:47.792 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:48.492 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826edc8689f40ef7088773
+14:24:48.938 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+14:24:50.275 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:50.944 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826edfff7c1658efdef878
+14:24:51.673 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+14:24:53.325 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:53.988 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ee2995c976deb95ccc6
+14:24:54.694 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+14:24:56.234 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:24:57.241 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ee5afc18975535f4ee8
+14:24:58.863 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:25:00.251 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:25:00.885 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ee9f45873a65aa1734a
+14:25:01.324 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+14:25:05.302 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:25:06.154 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826eeef1e13786ef578fc6
+14:25:06.601 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66826eef043e2c4ae0436820
+14:25:06.603 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 66826eef043e2c4ae0436820
+14:25:08.374 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:25:08.945 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ef1e0f6ceafa96611df
+14:25:09.443 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66826ef15373a2ed8de5893a
+14:25:09.887 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+14:25:11.203 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:25:11.906 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ef4962a234f7b71507a
+14:25:12.462 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66826ef4c22036f719656028
+14:25:12.983 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+14:25:14.607 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+14:25:15.223 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66826ef73fda4c2604bc2c1c
+14:25:15.689 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66826ef82438057ca45a3048
+14:25:16.183 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+14:25:17.859 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:34.756 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e49c0ec40c5169f3bc7
+12:16:35.449 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 668e2e4b4ba37e00c2328bc3
+12:16:36.941 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:37.609 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e4ea337177b6ffcedcb
+12:16:38.052 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+12:16:41.273 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:41.989 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e528269a68b342291d6
+12:16:43.489 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+12:16:45.670 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:46.462 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e56f4920efd1cd86855
+12:16:48.050 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+12:16:50.047 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:50.788 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e5bd0a6a9b331d282e8
+12:16:51.717 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+12:16:53.504 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:54.182 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e5e8e45060e7a953547
+12:16:54.638 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 668e2e5f8269a68b3422bc9b
+12:16:55.295 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e5f9ad254f092fb6b13
+12:16:56.039 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 668e2e600fac0d67f290d736
+12:16:57.944 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:16:58.566 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e632e9bead0c2edceb0
+12:16:58.979 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+12:17:00.567 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:01.318 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e65eb318bfbf74e932c
+12:17:01.947 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+12:17:03.598 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:04.527 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e68494692b0d69bb8f5
+12:17:05.288 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+12:17:06.973 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:07.625 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e6c5207fdf46dfda47f
+12:17:09.800 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:11.789 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:12.541 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e7064b6051c49ac6456
+12:17:12.975 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+12:17:14.938 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:15.687 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e74db7b89e0cb5d9a0c
+12:17:16.154 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 668e2e74e5d1ee47c313b1a5
+12:17:16.155 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 668e2e74e5d1ee47c313b1a5
+12:17:18.543 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:19.158 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e7732a7e7194df5006b
+12:17:19.750 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 668e2e78ceef852e1aaaaf25
+12:17:20.596 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+12:17:22.806 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:23.450 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e7b7e9cae5ba9fb867b
+12:17:23.921 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 668e2e7c8cab19ae0a26f515
+12:17:24.389 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+12:17:26.127 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+12:17:27.013 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 668e2e7f98a816240a636031
+12:17:27.484 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 668e2e8084e880c0b9c84000
+12:17:28.391 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+12:17:30.044 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:52:54.156 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc51c09b43d62ead45873
+17:52:54.804 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 66cdc51e29df2739b92d7459
+17:52:56.230 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:52:56.809 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc5209579ea5b559af59a
+17:52:57.270 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+17:52:58.737 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:52:59.897 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc52301471497635804a3
+17:53:00.399 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+17:53:03.155 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:03.896 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc5275e2091dcce3691a2
+17:53:06.011 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+17:53:07.551 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:08.158 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc52bd6b9c9f7c2177637
+17:53:08.566 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+17:53:10.212 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:10.952 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc52e549d828b36a95b7e
+17:53:11.556 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66cdc52fc6e3b681352161d1
+17:53:12.241 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc52f0be84b2db2f46766
+17:53:13.204 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 66cdc530f8092814e2e49c7a
+17:53:14.641 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:15.321 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc532bd5dc874e77718b7
+17:53:15.748 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+17:53:17.139 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:17.893 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc53562df865aa8618164
+17:53:18.414 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+17:53:20.351 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:21.076 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc5382052b9560b2b0757
+17:53:21.836 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+17:53:23.622 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:24.252 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc53be07bc376188bf7b0
+17:53:25.662 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:27.306 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:28.048 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc53f5bc9dbfadbbb7063
+17:53:28.427 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+17:53:29.974 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:30.704 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc54238c794b1d5e6cc55
+17:53:31.209 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66cdc542604b39a11050cefd
+17:53:31.209 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 66cdc542604b39a11050cefd
+17:53:33.250 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:33.977 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc5455fbbe6d69075ca30
+17:53:34.484 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66cdc5465166846fefb0a3a5
+17:53:34.883 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+17:53:36.624 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:37.211 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc5488d23173f270bd5fa
+17:53:37.651 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66cdc549b536694e787acce6
+17:53:38.174 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+17:53:39.775 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+17:53:40.884 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66cdc54c2430b6148f3a04c4
+17:53:41.422 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66cdc54df4536682e76b67b6
+17:53:41.869 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+17:53:43.610 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:16.770 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ea3e7f1600dac2c8729
+15:49:17.517 [main] INFO  com.trello.api.utils.Log4jUtil - Board created successfully with ID: 66e16ea5eca145ec6bf3e717
+15:49:18.882 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:19.748 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ea74289725b756ce125
+15:49:20.267 [main] INFO  com.trello.api.utils.Log4jUtil - Board retrieved successfully
+15:49:21.886 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:22.501 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eaaf6398abffe028d68
+15:49:22.947 [main] INFO  com.trello.api.utils.Log4jUtil - Board updated successfully
+15:49:24.453 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:25.040 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eac746569130b4fa6ff
+15:49:27.239 [main] INFO  com.trello.api.utils.Log4jUtil - Board deleted successfully
+15:49:28.712 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:29.788 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eb183b1a21419af7c40
+15:49:30.185 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted board not found as expected
+15:49:32.437 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:33.067 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eb4b6164125e70ae990
+15:49:33.510 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66e16eb5b365b1bfda98da9a
+15:49:34.597 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eb66f44eaa1e04eb7f3
+15:49:35.218 [main] INFO  com.trello.api.utils.Log4jUtil - Card created successfully with ID: 66e16eb675f150b728384ccb
+15:49:36.533 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:37.229 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eb87f460f66b229b813
+15:49:37.696 [main] INFO  com.trello.api.utils.Log4jUtil - Card retrieved successfully
+15:49:38.998 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:39.574 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ebbeb5bac6c9d16b347
+15:49:40.119 [main] INFO  com.trello.api.utils.Log4jUtil - Card updated successfully
+15:49:41.754 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:42.484 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ebe3bea30b3172530b3
+15:49:43.390 [main] INFO  com.trello.api.utils.Log4jUtil - Card deleted successfully
+15:49:46.844 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:47.495 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ec327db44480d613852
+15:49:48.951 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:50.974 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:51.808 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ec7cb86b981c6048501
+15:49:52.304 [main] INFO  com.trello.api.utils.Log4jUtil - Deleted card not found as expected
+15:49:53.739 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:54.460 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16eca7b7d507812273613
+15:49:54.948 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66e16ecad4dead2cafd7adb6
+15:49:54.948 [main] INFO  com.trello.api.utils.Log4jUtil - List created successfully with ID: 66e16ecad4dead2cafd7adb6
+15:49:56.388 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:49:57.017 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ecc510cafb08a5a0009
+15:49:57.524 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66e16ecd1fbc14a3c1dbff7b
+15:49:58.454 [main] INFO  com.trello.api.utils.Log4jUtil - List retrieved successfully
+15:50:00.082 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:50:00.916 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ed04b6f900b7fa70fe1
+15:50:01.360 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66e16ed18ac14d46ebb43661
+15:50:01.827 [main] INFO  com.trello.api.utils.Log4jUtil - List updated successfully
+15:50:03.252 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
+15:50:03.879 [main] INFO  com.trello.api.utils.Log4jUtil - Test board created successfully with ID: 66e16ed323785b5c343281f5
+15:50:04.337 [main] INFO  com.trello.api.utils.Log4jUtil - Test list created successfully with ID: 66e16ed45a8facab9a6f8965
+15:50:04.839 [main] INFO  com.trello.api.utils.Log4jUtil - List archived successfully
+15:50:06.030 [main] INFO  com.trello.api.utils.Log4jUtil - Test board deleted successfully
